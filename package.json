@@ -12,7 +12,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@abb/abb-common-ux-react": "*",
     "express": "^4.17.1",
     "react": "^16.10.2",
     "react-dom": "^16.10.2"
